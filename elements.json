@@ -1,0 +1,10 @@
+{
+    "login_button_class": ".spcv_login-button", 
+    "email_address_tag": "input[data-testid='input-email']",
+    "email_password_tag": "input[data-testid='input-password']",
+    "login_button": "input[data-testid='big-button']",
+    "logged_in_indication": ".spcv_userDisplayName",
+    "show_more_comments_button_tag": "div[data-spot-im-class='load-more-messages']",
+    "posts_container": "li.spcv_list-item",
+    "show_more_comments_spinner_class": ".spcv_spinner"
+}
